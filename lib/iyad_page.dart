@@ -5,6 +5,6 @@ class IyadPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(appBar: AppBar(title: Text('data')));
+    return Scaffold(appBar: AppBar(title: Text('uyuuuuuuuuu')));
   }
 }
