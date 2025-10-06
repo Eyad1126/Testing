@@ -35,7 +35,7 @@ class HomePage extends StatelessWidget {
                   MaterialPageRoute(builder: (context) => const IyadPage()),
                 );
               },
-              child: const Text('GOOOOO'),
+              child: const Text('GOOOOO2221'),
             ),
             ElevatedButton(
               onPressed: () {
@@ -44,7 +44,7 @@ class HomePage extends StatelessWidget {
                   MaterialPageRoute(builder: (context) => const NourPage()),
                 );
               },
-              child: const Text('nour page'),
+              child: const Text('nour page21'),
             ),
           ],
         ),
